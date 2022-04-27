@@ -19,6 +19,7 @@ let verseDisplay = (data) => {
     })
     content.innerHTML = newData;   
 
+    
 
 }
 
